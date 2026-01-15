@@ -68,6 +68,7 @@ Now, the list of supported **and tested** devices below is short, but I hope it 
 - Marantz
   * Marantz NR1604 (Tested by [jukonek](https://github.com/jukonek). Thank you.)
   * Marantz NR1607 (Tested by [brietman](https://github.com/brietman). Thank you.)
+  * Marantz M-CR510 (Tested by [lionelschiepers](https://github.com/lionelschiepers). Thank you.)
   * Marantz M-CR610 (Tested by [dzyndzla](https://github.com/dzyndzla). Thank you.)
   * Marantz M-CR611 (Tested by [aj-way](https://github.com/aj-way). Thank you.)
   * Marantz SR7008 (Tested by [avbohemen](https://github.com/avbohemen). Thank you.)
