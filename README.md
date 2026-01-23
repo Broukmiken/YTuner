@@ -136,6 +136,8 @@ Now, the list of supported **and tested** devices below is short, but I hope it 
   * Teac CR-H500NT (Confirmed by [jpaudioa4](https://github.com/jpaudioa4). Thank you.)
   * Teac CR-H700 (Tested by [J-K-L-8617](https://github.com/J-K-L-8617). Thank you.)
   * Teac NP-H750 (Tested by [sfcamil](https://github.com/sfcamil). Thank you.)
+- WiiM
+  * WiiM Ultra (Tested by [KHAGENA-123](https://github.com/KHAGENA-123). Thank you.)
 - Libratone
   * Libratone Zipp Speaker (Tested by [ndx1905-github](https://github.com/ndx1905-github). Thank you. /Read https://github.com/coffeegreg/YTuner/discussions/68 and/or https://github.com/coffeegreg/YTuner/issues/58 to find out how to use it/)
 
