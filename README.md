@@ -139,7 +139,7 @@ case WOrd(LUnicode {.Words[0]}) of
 
 3/
 
-go to file, open, and browse ytuner direcdtory and select : ytuner.lpi
+go to file, open, and browse ytuner directory and select : ytuner.lpi
 
 then choose " open project"
 
