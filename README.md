@@ -137,6 +137,12 @@ case WOrd(LUnicode {.Words[0]}) of
 =>then save the file (file then save)
 
 
+3/
+
+go to file, open, and browse ytuner direcdtory and select : ytuner.lpi
+
+then choose " open project"
+
 **********************************************************
 
 
