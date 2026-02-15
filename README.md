@@ -84,6 +84,10 @@ if not ,it's because 7z.exe isn't in your
 folder to the path environment variable in Windows 11
 you can search google, How to set a folder to the path environment variable in Windows 11
 
+by example:
+
+https://www.wikihow.com/Change-the-PATH-Environment-Variable-on-Windows
+
 OR:
 
 edit with Notepad or notepad++ the bat file,and
