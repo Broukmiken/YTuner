@@ -155,3 +155,11 @@ you can directly download my compiled file in release if you don't want to waste
 thanks Coffeegreg for your tool
 
 
+tip :
+
+if you closed Lazarus, you can found it and run it from this shortcut:
+
+Lazarus_fpcupdeluxe.bat
+
+located in C:\fpcupdeluxe
+
