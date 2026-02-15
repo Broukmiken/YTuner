@@ -1,7 +1,22 @@
 
+**********************************************************
 HOW TO COMPILE in windows ?
 
+**********************************************************
 
+coffeegreg decided to remove his windows version of his tool, because of issues with windows defender and antivirus from many customers
+
+it took me many hours and help from this forum to finally compile it by myself
+
+https://forum.lazarus.freepascal.org/index.php/topic,73458.0.html
+
+so... here we go :)
+
+
+
+**********************************************************
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 Download and install: 7zip
 
@@ -32,6 +47,7 @@ read carefully at the end of the installation:
 so, launch this shortcut
 
 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 download indylaz source code:
 
@@ -67,10 +83,15 @@ you should get many zip files in "res" directory and a sql.rc file
 if not ,it's because 7z.exe isn't in your 
 folder to the path environment variable in Windows 11
 you can search google, How to set a folder to the path environment variable in Windows 11
+
 OR:
+
 edit with Notepad or notepad++ the bat file,and
+
 replace 7z.exe by the path of 7z.exe
+
 and notice to add " before and after the path
+
 my 7.exe is here:
 
 C:\Program Files\7-Zip\7zip.exe
@@ -112,16 +133,20 @@ case WOrd(LUnicode {.Words[0]}) of
 =>then save the file (file then save)
 
 
+**********************************************************
 
 
 now, go to Run, compile many modes and just get "Release win64.."
 
 and get your compiled file ytuner.exe in \bin\Release\x86_64-win64
 
-you can directly download my compiled file in release
+you can directly download my compiled file in release if you don't want to waste your time and just use this great Ytuner :)
+
+thanks Coffeegreg for your tool
 
 **********************************************************
-*********************************************************
+ORIGINAL README
+**********************************************************
 
 
 
