@@ -155,6 +155,10 @@ and get your compiled file ytuner.exe in \bin\Release\x86_64-win64
 
 you can directly download my compiled file in release if you don't want to waste your time and just use this great Ytuner :)
 
+https://github.com/Broukmiken/YTuner/releases
+
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/YTuner/total">
+
 thanks Coffeegreg for your tool
 
 
