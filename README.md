@@ -2,6 +2,9 @@
 **********************************************************
 HOW TO COMPILE Ytuner 1.2.6 in x86_64-win64
 
+
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/YTuner/total">
+
 **********************************************************
 
 coffeegreg decided to remove his windows version of his tool, because of issues with windows defender and antivirus from many customers
